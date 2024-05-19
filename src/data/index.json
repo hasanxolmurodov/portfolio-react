@@ -1,0 +1,91 @@
+{
+    "skills":[
+        {
+            "id":"1",
+            "src": "./img/frontend.jpg",
+            "title": "Frontend",
+            "description":"Vitamin for Brain website design, PersonalBlog"
+        },
+        {
+            "id":"2",
+            "src": "./img/bkend.jpg",
+            "title": "Back-End",
+            "description":"Todo list, Login In and Login Up,Admin Panel"
+        },
+        {
+            "id":"3",
+            "src": "./img/design.png",
+            "title": "AI , Data Analysis and Machine Learning",
+            "description":"Face recognisation,Chart recognisation and Puzzle "
+         },
+         {
+            "id":"4",
+            "src": "./img/webflow.png",
+            "title": "Webflow Development",
+            "description":"Portfolio website, e-commerce, domain and hosting"
+         }
+    ],
+    "portfolio":[
+        {
+            "id":"1",
+            "src": "./img/VitminB.jpg",
+            "title": "Company's website",
+            "description":"Vitamin for Brain company website design. The website make Html,Css,Bootstrap and Javascript...",
+            "link":"View In GitHub"
+        },
+        {
+            "id":"2",
+            "src": "./img/Portfoliowebsite.jpg",
+            "title": "Portfolio website",
+            "description":"My portfolio website . The website make with reactjs(Javascript)...",
+             "link":"View In GitHub"
+        },
+        {
+            "id":"3",
+            "src": "./img/todolist.jpg",
+            "title": "Todo List",
+            "description":"Todo List. The todo list make with react-app(Javascript)...",
+            "link":"View In GitHub"
+         },
+         {
+            "id":"4",
+            "src": "./img/personalblog.jpg",
+            "title": "Personalblog",
+            "description":"The personalblog make with Html,Css, Bootstrap and Javascript...",
+            "link":"View In GitHub"
+         },
+         {
+            "id":"5",
+            "src": "./img/Gallary.jpg",
+            "title": "Gallery exhibtion",
+            "description":"The project make with Html,Css, Bootstrap and Javascript... ",
+            "link":"View In GitHub"
+         }
+    ],
+    "testimonial":[
+        {
+            "id":"1",
+            "count":5,
+            "src": "./img/avatar-img.jpeg",
+            "description":"Perfect project , Website design",
+            "author_name":"Sarvarbek Kurbandurdiyev",
+            "auther_designation":"Vitamin for Brain"
+        },
+        {
+            "id":"2",
+            "count":5,
+            "src": "./img/avatar-img2.jpg",
+            "description":"Great work, Face recognition",
+            "author_name":"John Stefan",
+            "auther_designation":"Company PR"
+        },
+        {
+            "id":"3",
+            "count":5,
+            "src": "./img/avatar-img3.jpeg",
+            "description":"Good job, Todo list, Admin Panel",
+            "author_name":"Asliddin",
+            "auther_designation":"Cosinus group"
+         }
+    ]
+}
